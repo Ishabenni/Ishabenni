@@ -1,6 +1,7 @@
 
 # 💫 About Me:
-I am a student
+I am a student at Visvesvaraya Technological University (VTU)
+Shivamogga,Karnataka,India
 
 
 ## 🌐 Socials:
